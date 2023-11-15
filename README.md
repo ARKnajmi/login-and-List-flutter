@@ -1,6 +1,6 @@
-# Simple Form Registration Flutter
+# Login Form and Product List flutter
 
-This is a simple code example to create a registration form using Flutter. The app allows users to register by filling in basic information such as name, email, phone number, and date of birth.
+This is a simple code example to create a Login Form and Product List using Flutter.
 
 ## Instalation
 
@@ -31,21 +31,11 @@ This is a simple code example to create a registration form using Flutter. The a
     
 The application will now start on your emulator or device.
 
-## Usage
-
-This application allows users to register by providing the following information:
-
-- Name
-- Email
-- Phone Number
-- Birthday/Date of Birth
-  
-Users can press the "Submit" button to complete the registration. The provided information will be validated.
-
 ## Project Structure
 
 - lib/: The main directory of the Flutter application.
 - main.dart: The entry point of the application.
-- formregistration.dart : where all the code related to the registration form is created.
+- formlogin.dart : where all the code related to the login form is created.
+- listproduct.dart : where all the code related to the product list is created.
 - assets/: Directory containing the assets that is used.
 - pubspec.yaml: The Flutter project configuration file.
