@@ -9,12 +9,12 @@ This is a simple code example to create a Login Form and Product List using Flut
 2. Clone this repository to your system.
 
    ```bash
-   git clone https://github.com/ARKnajmi/Simple-Form-Registration-Flutter-UTS.git
+   git clone https://github.com/ARKnajmi/login-and-List-flutter.git
 
 3. Navigate to the project directory.
    
     ```bash
-   cd Simple-Form-Registration-Flutter-UTS
+   cd login-and-List-flutter
 
 4. (MUST) Run the following command to download and install the required dependencies: 
    
